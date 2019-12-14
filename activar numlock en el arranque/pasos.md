@@ -22,8 +22,14 @@
   hay varios archivos.</li>
   <img src="img/ls_lightdm-conf-d.png" alt="ls">
   
-  <li>El archivo que modificaremos es 50-greeter-wrapper.conf . <br> Abriremos el archivo con nano, usando el comando: 
+  <li>El archivo que modificaremos es <strong>50-greeter-wrapper.conf</strong>. <br> Abriremos el archivo con nano, usando el comando: 
     <code>sudo nano 50-greeter-wrapper.conf</code></li>
   <li>Añadiremos al final del archivo la siguiente línea: <code>greeter-setup-script=/usr/bin/numlockx on</code></li>
+  <br>
    <img src="img/50-greeter-wrapper-conf.png" alt="foto_archivo_50-greeter">
   
+  <li>Guardamos los cambios con CTRL-O, pulsamos la tecla Enter, y salimos con CTRL-X.</li>
+  <li>Reiniciamos la máquina con el comando <code>reboot</code>, o simplemente abriendo Menú > Salir > Reiniciar. </li>
+ </ul>
+</body>
+</html>

@@ -19,5 +19,5 @@
    </blockquote>
   
   <li>Nos movemos a la ruta <code> /usr/share/lightdm/lightdm.conf.d/ </code>. Si hacemos un <code>ls</code>, observaremos que 
-  hay varios archivos.
-  
+  hay varios archivos.</li>
+  <img src="img/ls_lightdm-conf-d.png" alt="ls">

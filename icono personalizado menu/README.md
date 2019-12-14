@@ -7,7 +7,7 @@
   <p>El icono se encuentra disponible para su descarga en la carpeta <code>img</code> de este repositorio, o simplemente
   haciendo clic en la imagen.</p>
   
-  <h3>¿Cómo lo instalo?<h3>
+  <h3>¿Cómo lo instalo?</h3>
   <p>Hacemos clic secundario sobre el botón de Menú. Nos saldrá un menú desplegable. Seleccionaremos la opción "Configuración
     de Menú. <br> 
     <img src="img/menu_opcion.png" alt="menu_opcion"> <br>

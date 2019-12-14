@@ -9,5 +9,7 @@
   
   <h3>¿Cómo lo instalo?<h3>
   <p>Hacemos clic secundario sobre el botón de Menú. Nos saldrá un menú desplegable. Seleccionaremos la opción "Configuración
-    de <<Menú>>. 
-    <img src="img/menu_opcion.png" alt="menu_opcion">
+    de Menú. <br> 
+    <img src="img/menu_opcion.png" alt="menu_opcion"> <br>
+  Seleccionamos la ruta donde guardamos nuestro icono de menú personalizado y ya estaría terminado. 
+  </p>

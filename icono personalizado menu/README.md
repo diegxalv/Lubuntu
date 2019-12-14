@@ -13,3 +13,6 @@
     <img src="img/menu_opcion.png" alt="menu_opcion"> <br>
   Seleccionamos la ruta donde guardamos nuestro icono de menú personalizado y ya estaría terminado. 
   </p>
+  <h4>Resultado final:</h4> <br>
+  <img src="img/resultado_final" alt="capt_barra">
+  

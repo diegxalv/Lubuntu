@@ -1,4 +1,13 @@
-# Icono personalizado de menú 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Icono personalizado menú">
+    <meta name="keywords" content="lubuntu">
+    <meta name="author" content="Juan Diego Mesa Álvarez";
+</head>
+<body>
+  
+  # Icono personalizado de menú 
   <p>Aquí se presenta un icono de menú alternativo realizado por mí. Cualquiera puede descargarlo y usarlo.
   <br>Imagen de demostración:<br>
   <img src="img/lubuntu_definitiva.png" alt="icono_menu">
@@ -14,5 +23,7 @@
   Seleccionamos la ruta donde guardamos nuestro icono de menú personalizado y ya estaría terminado. 
   </p>
   <h4>Resultado final:</h4> <br>
-  <img src="img/resultado_final" alt="capt_barra">
+  <img src="img/resultado_final.png" alt="capt_barra">
   
+</body>
+</html>
